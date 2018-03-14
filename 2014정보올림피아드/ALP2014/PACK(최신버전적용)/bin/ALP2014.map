@@ -1,0 +1,1024 @@
+ ALP2014
+
+ Timestamp is 53a97bd5 (Tue Jun 24 22:23:33 2014)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 0000017cH .idata$5                CODE
+ 0001:00000180 00000918H .rdata                  CODE
+ 0001:00000aa0 0003ac88H .text                   CODE
+ 0001:0003b730 00000004H .text$0                 CODE
+ 0001:0003b740 000286e0H .text$1                 CODE
+ 0001:00063e20 00000004H .text$2                 CODE
+ 0001:00063e24 00000014H .idata$2                CODE
+ 0001:00063e38 00000014H .idata$3                CODE
+ 0001:00063e4c 0000017cH .idata$4                CODE
+ 0001:00063fc8 00000500H .idata$6                CODE
+ 0001:000644c8 00000000H .edata                  CODE
+ 0002:00000000 00000004H .data                   DATA
+ 0002:00000008 00005134H .bss                    DATA
+ 0003:00000000 000000e8H .rsrc$01                DATA
+ 0003:000000f0 00000650H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0001:00000000       __imp____vbaVarSub         00401000     ALP2014.OBJ
+ 0001:00000000       __imp_@__vbaVarSub         00401000     ALP2014.OBJ
+ 0001:00000004       __imp____vba@05E59520      00401004     ALP2014.OBJ
+ 0001:00000004       __imp_@__vba@05E59520      00401004     ALP2014.OBJ
+ 0001:00000008       __imp____vba@05E594A0      00401008     ALP2014.OBJ
+ 0001:00000008       __imp_@__vba@05E594A0      00401008     ALP2014.OBJ
+ 0001:0000000c       __imp___CIcos              0040100c     ALP2014.OBJ
+ 0001:00000010       __imp___adj_fptan          00401010     ALP2014.OBJ
+ 0001:00000014       __imp_@__vbaVarMove        00401014     ALP2014.OBJ
+ 0001:00000014       __imp____vbaVarMove        00401014     ALP2014.OBJ
+ 0001:00000018       __imp____vbaFreeVar        00401018     ALP2014.OBJ
+ 0001:00000018       __imp_@__vbaFreeVar        00401018     ALP2014.OBJ
+ 0001:0000001c       __imp____vbaStrVarMove     0040101c     ALP2014.OBJ
+ 0001:0000001c       __imp_@__vbaStrVarMove     0040101c     ALP2014.OBJ
+ 0001:00000020       __imp_@__vbaEnd            00401020     ALP2014.OBJ
+ 0001:00000020       __imp____vbaEnd            00401020     ALP2014.OBJ
+ 0001:00000024       __imp_@__vbaFreeVarList    00401024     ALP2014.OBJ
+ 0001:00000024       __imp____vbaFreeVarList    00401024     ALP2014.OBJ
+ 0001:00000028       __imp___adj_fdiv_m64       00401028     ALP2014.OBJ
+ 0001:0000002c       __imp____vbaFreeObjList    0040102c     ALP2014.OBJ
+ 0001:0000002c       __imp_@__vbaFreeObjList    0040102c     ALP2014.OBJ
+ 0001:00000030       __imp___adj_fprem1         00401030     ALP2014.OBJ
+ 0001:00000034       __imp_@__vbaStrCat         00401034     ALP2014.OBJ
+ 0001:00000034       __imp____vbaStrCat         00401034     ALP2014.OBJ
+ 0001:00000038       __imp____vbaSetSystemError 00401038     ALP2014.OBJ
+ 0001:00000038       __imp_@__vbaSetSystemError 00401038     ALP2014.OBJ
+ 0001:0000003c       __imp_@__vbaHresultCheckObj 0040103c     ALP2014.OBJ
+ 0001:0000003c       __imp____vbaHresultCheckObj 0040103c     ALP2014.OBJ
+ 0001:00000040       __imp___adj_fdiv_m32       00401040     ALP2014.OBJ
+ 0001:00000044       __imp____vbaVarTstLe       00401044     ALP2014.OBJ
+ 0001:00000044       __imp_@__vbaVarTstLe       00401044     ALP2014.OBJ
+ 0001:00000048       __imp____vbaLateMemSt      00401048     ALP2014.OBJ
+ 0001:00000048       __imp_@__vbaLateMemSt      00401048     ALP2014.OBJ
+ 0001:0000004c       __imp____vbaOnError        0040104c     ALP2014.OBJ
+ 0001:0000004c       __imp_@__vbaOnError        0040104c     ALP2014.OBJ
+ 0001:00000050       __imp_@__vbaObjSet         00401050     ALP2014.OBJ
+ 0001:00000050       __imp____vbaObjSet         00401050     ALP2014.OBJ
+ 0001:00000054       __imp_@__vba@05E5941C      00401054     ALP2014.OBJ
+ 0001:00000054       __imp____vba@05E5941C      00401054     ALP2014.OBJ
+ 0001:00000058       __imp___adj_fdiv_m16i      00401058     ALP2014.OBJ
+ 0001:0000005c       __imp_@__vbaObjSetAddref   0040105c     ALP2014.OBJ
+ 0001:0000005c       __imp____vbaObjSetAddref   0040105c     ALP2014.OBJ
+ 0001:00000060       __imp___adj_fdivr_m16i     00401060     ALP2014.OBJ
+ 0001:00000064       __imp_@__vba@05E6C4E0      00401064     ALP2014.OBJ
+ 0001:00000064       __imp____vba@05E6C4E0      00401064     ALP2014.OBJ
+ 0001:00000068       __imp_@__vbaFpR4           00401068     ALP2014.OBJ
+ 0001:00000068       __imp____vbaFpR4           00401068     ALP2014.OBJ
+ 0001:0000006c       __imp____vba@05E5904C      0040106c     ALP2014.OBJ
+ 0001:0000006c       __imp_@__vba@05E5904C      0040106c     ALP2014.OBJ
+ 0001:00000070       __imp____vbaBoolVar        00401070     ALP2014.OBJ
+ 0001:00000070       __imp_@__vbaBoolVar        00401070     ALP2014.OBJ
+ 0001:00000074       __imp_@__vbaBoolVarNull    00401074     ALP2014.OBJ
+ 0001:00000074       __imp____vbaBoolVarNull    00401074     ALP2014.OBJ
+ 0001:00000078       __imp____vbaFpR8           00401078     ALP2014.OBJ
+ 0001:00000078       __imp_@__vbaFpR8           00401078     ALP2014.OBJ
+ 0001:0000007c       __imp___CIsin              0040107c     ALP2014.OBJ
+ 0001:00000080       __imp____vbaChkstk         00401080     ALP2014.OBJ
+ 0001:00000088       __imp_@__vbaStrCmp         00401088     ALP2014.OBJ
+ 0001:00000088       __imp____vbaStrCmp         00401088     ALP2014.OBJ
+ 0001:0000008c       __imp____vba@05E6D6AC      0040108c     ALP2014.OBJ
+ 0001:0000008c       __imp_@__vba@05E6D6AC      0040108c     ALP2014.OBJ
+ 0001:00000090       __imp____vbaI2I4           00401090     ALP2014.OBJ
+ 0001:00000090       __imp_@__vbaI2I4           00401090     ALP2014.OBJ
+ 0001:00000098       __imp___adj_fpatan         00401098     ALP2014.OBJ
+ 0001:0000009c       __imp_@__vbaR4Var          0040109c     ALP2014.OBJ
+ 0001:0000009c       __imp____vbaR4Var          0040109c     ALP2014.OBJ
+ 0001:000000a4       __imp_@__vba@05E1A04C      004010a4     ALP2014.OBJ
+ 0001:000000a4       __imp____vba@05E1A04C      004010a4     ALP2014.OBJ
+ 0001:000000a8       __imp____vbaUI1I2          004010a8     ALP2014.OBJ
+ 0001:000000a8       __imp_@__vbaUI1I2          004010a8     ALP2014.OBJ
+ 0001:000000ac       __imp___CIsqrt             004010ac     ALP2014.OBJ
+ 0001:000000b0       __imp____vbaVarAnd         004010b0     ALP2014.OBJ
+ 0001:000000b0       __imp_@__vbaVarAnd         004010b0     ALP2014.OBJ
+ 0001:000000b8       __imp_@__vbaStrUI1         004010b8     ALP2014.OBJ
+ 0001:000000b8       __imp____vbaStrUI1         004010b8     ALP2014.OBJ
+ 0001:000000bc       __imp____vbaUI1I4          004010bc     ALP2014.OBJ
+ 0001:000000bc       __imp_@__vbaUI1I4          004010bc     ALP2014.OBJ
+ 0001:000000c0       __imp____vbaExceptHandler  004010c0     ALP2014.OBJ
+ 0001:000000c4       __imp_@__vbaStrToUnicode   004010c4     ALP2014.OBJ
+ 0001:000000c4       __imp____vbaStrToUnicode   004010c4     ALP2014.OBJ
+ 0001:000000c8       __imp___adj_fprem          004010c8     ALP2014.OBJ
+ 0001:000000cc       __imp___adj_fdivr_m64      004010cc     ALP2014.OBJ
+ 0001:000000d0       __imp____vbaVarDiv         004010d0     ALP2014.OBJ
+ 0001:000000d0       __imp_@__vbaVarDiv         004010d0     ALP2014.OBJ
+ 0001:000000d4       __imp_@__vba@05E58E90      004010d4     ALP2014.OBJ
+ 0001:000000d4       __imp____vba@05E58E90      004010d4     ALP2014.OBJ
+ 0001:000000d8       __imp_@__vbaVarCmpLe       004010d8     ALP2014.OBJ
+ 0001:000000d8       __imp____vbaVarCmpLe       004010d8     ALP2014.OBJ
+ 0001:000000dc       __imp____vbaFPException    004010dc     ALP2014.OBJ
+ 0001:000000e0       __imp_@__vba@05E83E34      004010e0     ALP2014.OBJ
+ 0001:000000e0       __imp____vba@05E83E34      004010e0     ALP2014.OBJ
+ 0001:000000e4       __imp____vbaStrVarVal      004010e4     ALP2014.OBJ
+ 0001:000000e4       __imp_@__vbaStrVarVal      004010e4     ALP2014.OBJ
+ 0001:000000e8       __imp____vbaVarCat         004010e8     ALP2014.OBJ
+ 0001:000000e8       __imp_@__vbaVarCat         004010e8     ALP2014.OBJ
+ 0001:000000ec       __imp_@__vba@05E6C518      004010ec     ALP2014.OBJ
+ 0001:000000ec       __imp____vba@05E6C518      004010ec     ALP2014.OBJ
+ 0001:000000f0       __imp___CIlog              004010f0     ALP2014.OBJ
+ 0001:000000f4       __imp_@__vbaErrorOverflow  004010f4     ALP2014.OBJ
+ 0001:000000f4       __imp____vbaErrorOverflow  004010f4     ALP2014.OBJ
+ 0001:000000f8       __imp_@__vbaR8Str          004010f8     ALP2014.OBJ
+ 0001:000000f8       __imp____vbaR8Str          004010f8     ALP2014.OBJ
+ 0001:000000fc       __imp_@__vbaNew2           004010fc     ALP2014.OBJ
+ 0001:000000fc       __imp____vbaNew2           004010fc     ALP2014.OBJ
+ 0001:00000100       __imp___adj_fdiv_m32i      00401100     ALP2014.OBJ
+ 0001:00000104       __imp___adj_fdivr_m32i     00401104     ALP2014.OBJ
+ 0001:00000108       __imp____vbaStrCopy        00401108     ALP2014.OBJ
+ 0001:00000108       __imp_@__vbaStrCopy        00401108     ALP2014.OBJ
+ 0001:0000010c       __imp_@__vbaI4Str          0040110c     ALP2014.OBJ
+ 0001:0000010c       __imp____vbaI4Str          0040110c     ALP2014.OBJ
+ 0001:00000110       __imp_@__vbaVarCmpLt       00401110     ALP2014.OBJ
+ 0001:00000110       __imp____vbaVarCmpLt       00401110     ALP2014.OBJ
+ 0001:00000114       __imp____vbaFreeStrList    00401114     ALP2014.OBJ
+ 0001:00000114       __imp_@__vbaFreeStrList    00401114     ALP2014.OBJ
+ 0001:00000118       __imp___adj_fdivr_m32      00401118     ALP2014.OBJ
+ 0001:0000011c       __imp___adj_fdiv_r         0040111c     ALP2014.OBJ
+ 0001:00000124       __imp____vbaI4Var          00401124     ALP2014.OBJ
+ 0001:00000124       __imp_@__vbaI4Var          00401124     ALP2014.OBJ
+ 0001:00000128       __imp____vba@05E58EC8      00401128     ALP2014.OBJ
+ 0001:00000128       __imp_@__vba@05E58EC8      00401128     ALP2014.OBJ
+ 0001:0000012c       __imp____vba@05E88694      0040112c     ALP2014.OBJ
+ 0001:0000012c       __imp_@__vba@05E88694      0040112c     ALP2014.OBJ
+ 0001:00000130       __imp_@__vbaVarAdd         00401130     ALP2014.OBJ
+ 0001:00000130       __imp____vbaVarAdd         00401130     ALP2014.OBJ
+ 0001:00000134       __imp____vbaStrToAnsi      00401134     ALP2014.OBJ
+ 0001:00000134       __imp_@__vbaStrToAnsi      00401134     ALP2014.OBJ
+ 0001:00000138       __imp_@__vba@05E8865C      00401138     ALP2014.OBJ
+ 0001:00000138       __imp____vba@05E8865C      00401138     ALP2014.OBJ
+ 0001:0000013c       __imp____vbaVarDup         0040113c     ALP2014.OBJ
+ 0001:0000013c       __imp_@__vbaVarDup         0040113c     ALP2014.OBJ
+ 0001:00000140       __imp____vbaFpI4           00401140     ALP2014.OBJ
+ 0001:00000140       __imp_@__vbaFpI4           00401140     ALP2014.OBJ
+ 0001:00000144       __imp_@__vbaLateMemCallLd  00401144     ALP2014.OBJ
+ 0001:00000144       __imp____vbaLateMemCallLd  00401144     ALP2014.OBJ
+ 0001:00000148       __imp___CIatan             00401148     ALP2014.OBJ
+ 0001:0000014c       __imp_@__vbaUI1Str         0040114c     ALP2014.OBJ
+ 0001:0000014c       __imp____vbaUI1Str         0040114c     ALP2014.OBJ
+ 0001:00000150       __imp____vbaCastObj        00401150     ALP2014.OBJ
+ 0001:00000150       __imp_@__vbaCastObj        00401150     ALP2014.OBJ
+ 0001:00000154       __imp____vbaStrMove        00401154     ALP2014.OBJ
+ 0001:00000154       __imp_@__vbaStrMove        00401154     ALP2014.OBJ
+ 0001:00000158       __imp___allmul             00401158     ALP2014.OBJ
+ 0001:0000015c       __imp_@__vbaLenVarB        0040115c     ALP2014.OBJ
+ 0001:0000015c       __imp____vbaLenVarB        0040115c     ALP2014.OBJ
+ 0001:00000160       __imp____vbaLateIdSt       00401160     ALP2014.OBJ
+ 0001:00000160       __imp_@__vbaLateIdSt       00401160     ALP2014.OBJ
+ 0001:00000164       __imp___CItan              00401164     ALP2014.OBJ
+ 0001:00000168       __imp_@__vbaUI1Var         00401168     ALP2014.OBJ
+ 0001:00000168       __imp____vbaUI1Var         00401168     ALP2014.OBJ
+ 0001:0000016c       __imp___CIexp              0040116c     ALP2014.OBJ
+ 0001:00000170       __imp_@__vbaFreeObj        00401170     ALP2014.OBJ
+ 0001:00000170       __imp____vbaFreeObj        00401170     ALP2014.OBJ
+ 0001:00000174       __imp_@__vbaFreeStr        00401174     ALP2014.OBJ
+ 0001:00000174       __imp____vbaFreeStr        00401174     ALP2014.OBJ
+ 0001:000005b4       __real@4@40048800000000000000 004015b4     ctlSkin.OBJ
+ 0001:000005b8       __real@4@40048000000000000000 004015b8     ctlSkin.OBJ
+ 0001:000005bc       __real@4@4003a000000000000000 004015bc     ctlSkin.OBJ
+ 0001:000005c0       __real@4@3fff8000000000000000 004015c0     ctlSkin.OBJ
+ 0001:000005c4       __real@4@4002f000000000000000 004015c4     ctlSkin.OBJ
+ 0001:000005c8       __real@4@40008000000000000000 004015c8     ctlSkin.OBJ
+ 0001:000005f8       __real@4@4003f000000000000000 004015f8     ctlSkin.OBJ
+ 0001:00000600       __real@8@4000c000000000000000 00401600     ctlSkin.OBJ
+ 0001:000006b0       __real@4@00000000000000000000 004016b0     ctlSkin.OBJ
+ 0001:000006b4       __real@4@40038000000000000000 004016b4     ctlSkin.OBJ
+ 0001:00000718       __real@8@4008fa00000000000000 00401718     modFade.OBJ
+ 0001:00000720       __real@8@4002c000000000000000 00401720     modFade.OBJ
+ 0001:00000748       __real@8@4002f000000000000000 00401748     modMinSize.OBJ
+ 0001:000008a8       __real@8@400abb80000000000000 004018a8     setting.OBJ
+ 0001:00000aa0       VB@TEXT                    00401aa0     ALP2014.OBJ
+ 0001:00000aa0       ___vbaChkstk               00401aa0     ALP2014.OBJ
+ 0001:00000aa6       ___vbaExceptHandler        00401aa6     ALP2014.OBJ
+ 0001:00000aac       ___vbaFPException          00401aac     ALP2014.OBJ
+ 0001:00000ab2       __adj_fdiv_m16i            00401ab2     ALP2014.OBJ
+ 0001:00000ab8       __adj_fdiv_m32             00401ab8     ALP2014.OBJ
+ 0001:00000abe       __adj_fdiv_m32i            00401abe     ALP2014.OBJ
+ 0001:00000ac4       __adj_fdiv_m64             00401ac4     ALP2014.OBJ
+ 0001:00000aca       __adj_fdiv_r               00401aca     ALP2014.OBJ
+ 0001:00000ad0       __adj_fdivr_m16i           00401ad0     ALP2014.OBJ
+ 0001:00000ad6       __adj_fdivr_m32            00401ad6     ALP2014.OBJ
+ 0001:00000adc       __adj_fdivr_m32i           00401adc     ALP2014.OBJ
+ 0001:00000ae2       __adj_fdivr_m64            00401ae2     ALP2014.OBJ
+ 0001:00000ae8       __adj_fpatan               00401ae8     ALP2014.OBJ
+ 0001:00000aee       __adj_fprem                00401aee     ALP2014.OBJ
+ 0001:00000af4       __adj_fprem1               00401af4     ALP2014.OBJ
+ 0001:00000afa       __adj_fptan                00401afa     ALP2014.OBJ
+ 0001:00000b00       __CIatan                   00401b00     ALP2014.OBJ
+ 0001:00000b06       __CIcos                    00401b06     ALP2014.OBJ
+ 0001:00000b0c       __CIexp                    00401b0c     ALP2014.OBJ
+ 0001:00000b12       __CIlog                    00401b12     ALP2014.OBJ
+ 0001:00000b18       __CIsin                    00401b18     ALP2014.OBJ
+ 0001:00000b1e       __CIsqrt                   00401b1e     ALP2014.OBJ
+ 0001:00000b24       __CItan                    00401b24     ALP2014.OBJ
+ 0001:00000b2a       __allmul                   00401b2a     ALP2014.OBJ
+ 0001:00000b36       ___vba@05E58E90            00401b36     ALP2014.OBJ
+ 0001:00000b36       @__vba@05E58E90            00401b36     ALP2014.OBJ
+ 0001:00000b3c       ___vba@05E58EC8            00401b3c     ALP2014.OBJ
+ 0001:00000b3c       @__vba@05E58EC8            00401b3c     ALP2014.OBJ
+ 0001:00000b42       ___vbaStrMove              00401b42     ALP2014.OBJ
+ 0001:00000b42       @__vbaStrMove              00401b42     ALP2014.OBJ
+ 0001:00000b48       ___vbaLateIdSt             00401b48     ALP2014.OBJ
+ 0001:00000b48       @__vbaLateIdSt             00401b48     ALP2014.OBJ
+ 0001:00000b4e       @__vbaCastObj              00401b4e     ALP2014.OBJ
+ 0001:00000b4e       ___vbaCastObj              00401b4e     ALP2014.OBJ
+ 0001:00000b54       @__vbaStrCmp               00401b54     ALP2014.OBJ
+ 0001:00000b54       ___vbaStrCmp               00401b54     ALP2014.OBJ
+ 0001:00000b5a       ___vba@05E5904C            00401b5a     ALP2014.OBJ
+ 0001:00000b5a       @__vba@05E5904C            00401b5a     ALP2014.OBJ
+ 0001:00000b60       ___vbaSetSystemError       00401b60     ALP2014.OBJ
+ 0001:00000b60       @__vbaSetSystemError       00401b60     ALP2014.OBJ
+ 0001:00000b66       ___vbaI4Str                00401b66     ALP2014.OBJ
+ 0001:00000b66       @__vbaI4Str                00401b66     ALP2014.OBJ
+ 0001:00000b6c       ___vbaFreeStr              00401b6c     ALP2014.OBJ
+ 0001:00000b6c       @__vbaFreeStr              00401b6c     ALP2014.OBJ
+ 0001:00000b72       ___vbaVarDup               00401b72     ALP2014.OBJ
+ 0001:00000b72       @__vbaVarDup               00401b72     ALP2014.OBJ
+ 0001:00000b78       ___vba@05E5941C            00401b78     ALP2014.OBJ
+ 0001:00000b78       @__vba@05E5941C            00401b78     ALP2014.OBJ
+ 0001:00000b7e       @__vbaFreeVar              00401b7e     ALP2014.OBJ
+ 0001:00000b7e       ___vbaFreeVar              00401b7e     ALP2014.OBJ
+ 0001:00000b84       ___vba@05E594A0            00401b84     ALP2014.OBJ
+ 0001:00000b84       @__vba@05E594A0            00401b84     ALP2014.OBJ
+ 0001:00000b8a       ___vbaNew2                 00401b8a     ALP2014.OBJ
+ 0001:00000b8a       @__vbaNew2                 00401b8a     ALP2014.OBJ
+ 0001:00000b90       @__vba@05E59520            00401b90     ALP2014.OBJ
+ 0001:00000b90       ___vba@05E59520            00401b90     ALP2014.OBJ
+ 0001:00000b96       @__vbaFreeObjList          00401b96     ALP2014.OBJ
+ 0001:00000b96       ___vbaFreeObjList          00401b96     ALP2014.OBJ
+ 0001:00000b9c       @__vbaFreeStrList          00401b9c     ALP2014.OBJ
+ 0001:00000b9c       ___vbaFreeStrList          00401b9c     ALP2014.OBJ
+ 0001:00000ba2       @__vbaStrCat               00401ba2     ALP2014.OBJ
+ 0001:00000ba2       ___vbaStrCat               00401ba2     ALP2014.OBJ
+ 0001:00000ba8       ___vbaVarCat               00401ba8     ALP2014.OBJ
+ 0001:00000ba8       @__vbaVarCat               00401ba8     ALP2014.OBJ
+ 0001:00000bae       @__vbaStrVarVal            00401bae     ALP2014.OBJ
+ 0001:00000bae       ___vbaStrVarVal            00401bae     ALP2014.OBJ
+ 0001:00000bb4       @__vbaFreeObj              00401bb4     ALP2014.OBJ
+ 0001:00000bb4       ___vbaFreeObj              00401bb4     ALP2014.OBJ
+ 0001:00000bba       ___vbaHresultCheckObj      00401bba     ALP2014.OBJ
+ 0001:00000bba       @__vbaHresultCheckObj      00401bba     ALP2014.OBJ
+ 0001:00000bc0       ___vbaObjSet               00401bc0     ALP2014.OBJ
+ 0001:00000bc0       @__vbaObjSet               00401bc0     ALP2014.OBJ
+ 0001:00000bc6       ___vbaFreeVarList          00401bc6     ALP2014.OBJ
+ 0001:00000bc6       @__vbaFreeVarList          00401bc6     ALP2014.OBJ
+ 0001:00000bcc       ___vba@05E8865C            00401bcc     ALP2014.OBJ
+ 0001:00000bcc       @__vba@05E8865C            00401bcc     ALP2014.OBJ
+ 0001:00000bd2       @__vba@05E88694            00401bd2     ALP2014.OBJ
+ 0001:00000bd2       ___vba@05E88694            00401bd2     ALP2014.OBJ
+ 0001:00000bd8       @__vbaVarAdd               00401bd8     ALP2014.OBJ
+ 0001:00000bd8       ___vbaVarAdd               00401bd8     ALP2014.OBJ
+ 0001:00000bde       ___vbaVarMove              00401bde     ALP2014.OBJ
+ 0001:00000bde       @__vbaVarMove              00401bde     ALP2014.OBJ
+ 0001:00000be4       ___vbaBoolVar              00401be4     ALP2014.OBJ
+ 0001:00000be4       @__vbaBoolVar              00401be4     ALP2014.OBJ
+ 0001:00000bea       @__vbaStrVarMove           00401bea     ALP2014.OBJ
+ 0001:00000bea       ___vbaStrVarMove           00401bea     ALP2014.OBJ
+ 0001:00000bf0       ___vbaStrCopy              00401bf0     ALP2014.OBJ
+ 0001:00000bf0       @__vbaStrCopy              00401bf0     ALP2014.OBJ
+ 0001:00000bf6       ___vbaVarDiv               00401bf6     ALP2014.OBJ
+ 0001:00000bf6       @__vbaVarDiv               00401bf6     ALP2014.OBJ
+ 0001:00000bfc       @__vbaVarCmpLe             00401bfc     ALP2014.OBJ
+ 0001:00000bfc       ___vbaVarCmpLe             00401bfc     ALP2014.OBJ
+ 0001:00000c02       ___vbaFpR4                 00401c02     ALP2014.OBJ
+ 0001:00000c02       @__vbaFpR4                 00401c02     ALP2014.OBJ
+ 0001:00000c08       @__vbaI2I4                 00401c08     ALP2014.OBJ
+ 0001:00000c08       ___vbaI2I4                 00401c08     ALP2014.OBJ
+ 0001:00000c0e       ___vbaFpR8                 00401c0e     ALP2014.OBJ
+ 0001:00000c0e       @__vbaFpR8                 00401c0e     ALP2014.OBJ
+ 0001:00000c14       @__vbaVarSub               00401c14     ALP2014.OBJ
+ 0001:00000c14       ___vbaVarSub               00401c14     ALP2014.OBJ
+ 0001:00000c1a       ___vbaVarTstLe             00401c1a     ALP2014.OBJ
+ 0001:00000c1a       @__vbaVarTstLe             00401c1a     ALP2014.OBJ
+ 0001:00000c20       @__vbaVarCmpLt             00401c20     ALP2014.OBJ
+ 0001:00000c20       ___vbaVarCmpLt             00401c20     ALP2014.OBJ
+ 0001:00000c26       @__vbaVarAnd               00401c26     ALP2014.OBJ
+ 0001:00000c26       ___vbaVarAnd               00401c26     ALP2014.OBJ
+ 0001:00000c2c       ___vbaBoolVarNull          00401c2c     ALP2014.OBJ
+ 0001:00000c2c       @__vbaBoolVarNull          00401c2c     ALP2014.OBJ
+ 0001:00000c32       @__vbaErrorOverflow        00401c32     ALP2014.OBJ
+ 0001:00000c32       ___vbaErrorOverflow        00401c32     ALP2014.OBJ
+ 0001:00000c38       ___vbaR4Var                00401c38     ALP2014.OBJ
+ 0001:00000c38       @__vbaR4Var                00401c38     ALP2014.OBJ
+ 0001:00000c3e       ___vbaLateMemSt            00401c3e     ALP2014.OBJ
+ 0001:00000c3e       @__vbaLateMemSt            00401c3e     ALP2014.OBJ
+ 0001:00000c44       @__vbaLateMemCallLd        00401c44     ALP2014.OBJ
+ 0001:00000c44       ___vbaLateMemCallLd        00401c44     ALP2014.OBJ
+ 0001:00000c4a       @__vbaStrToUnicode         00401c4a     ALP2014.OBJ
+ 0001:00000c4a       ___vbaStrToUnicode         00401c4a     ALP2014.OBJ
+ 0001:00000c50       ___vbaStrToAnsi            00401c50     ALP2014.OBJ
+ 0001:00000c50       @__vbaStrToAnsi            00401c50     ALP2014.OBJ
+ 0001:00000c56       ___vba@05E83E34            00401c56     ALP2014.OBJ
+ 0001:00000c56       @__vba@05E83E34            00401c56     ALP2014.OBJ
+ 0001:00000c5c       ___vbaLenVarB              00401c5c     ALP2014.OBJ
+ 0001:00000c5c       @__vbaLenVarB              00401c5c     ALP2014.OBJ
+ 0001:00000c62       @__vbaI4Var                00401c62     ALP2014.OBJ
+ 0001:00000c62       ___vbaI4Var                00401c62     ALP2014.OBJ
+ 0001:00000c68       @__vbaFpI4                 00401c68     ALP2014.OBJ
+ 0001:00000c68       ___vbaFpI4                 00401c68     ALP2014.OBJ
+ 0001:00000c6e       @__vbaOnError              00401c6e     ALP2014.OBJ
+ 0001:00000c6e       ___vbaOnError              00401c6e     ALP2014.OBJ
+ 0001:00000c74       ___vbaUI1I4                00401c74     ALP2014.OBJ
+ 0001:00000c74       @__vbaUI1I4                00401c74     ALP2014.OBJ
+ 0001:00000c7a       ___vba@05E6C4E0            00401c7a     ALP2014.OBJ
+ 0001:00000c7a       @__vba@05E6C4E0            00401c7a     ALP2014.OBJ
+ 0001:00000c80       @__vba@05E6C518            00401c80     ALP2014.OBJ
+ 0001:00000c80       ___vba@05E6C518            00401c80     ALP2014.OBJ
+ 0001:00000c86       ___vbaUI1I2                00401c86     ALP2014.OBJ
+ 0001:00000c86       @__vbaUI1I2                00401c86     ALP2014.OBJ
+ 0001:00000c8c       ___vbaEnd                  00401c8c     ALP2014.OBJ
+ 0001:00000c8c       @__vbaEnd                  00401c8c     ALP2014.OBJ
+ 0001:00000c92       ___vbaObjSetAddref         00401c92     ALP2014.OBJ
+ 0001:00000c92       @__vbaObjSetAddref         00401c92     ALP2014.OBJ
+ 0001:00000c98       ___vba@05E6D6AC            00401c98     ALP2014.OBJ
+ 0001:00000c98       @__vba@05E6D6AC            00401c98     ALP2014.OBJ
+ 0001:00000c9e       ___vbaR8Str                00401c9e     ALP2014.OBJ
+ 0001:00000c9e       @__vbaR8Str                00401c9e     ALP2014.OBJ
+ 0001:00000ca4       @__vba@05E1A04C            00401ca4     ALP2014.OBJ
+ 0001:00000ca4       ___vba@05E1A04C            00401ca4     ALP2014.OBJ
+ 0001:00000caa       @__vbaStrUI1               00401caa     ALP2014.OBJ
+ 0001:00000caa       ___vbaStrUI1               00401caa     ALP2014.OBJ
+ 0001:00000cb0       ___vbaUI1Str               00401cb0     ALP2014.OBJ
+ 0001:00000cb0       @__vbaUI1Str               00401cb0     ALP2014.OBJ
+ 0001:00000cb6       ___vbaUI1Var               00401cb6     ALP2014.OBJ
+ 0001:00000cb6       @__vbaUI1Var               00401cb6     ALP2014.OBJ
+ 0001:00000cd4       ___vbaS                    00401cd4     ALP2014.OBJ
+ 0001:0000e974       ___vba@05EAAEFC            0040f974     ALP2014.OBJ
+ 0001:0000e9b8       ___vba@05EAB34C            0040f9b8     ALP2014.OBJ
+ 0001:0000f184       ___vba@05E1AB64            00410184     ALP2014.OBJ
+ 0001:0000f4f4       ___vba@05E5CF94            004104f4     ALP2014.OBJ
+ 0001:0000f8e4       ___vba@05E1B404            004108e4     ALP2014.OBJ
+ 0001:0000fcec       ___vba@05E1AFB4            00410cec     ALP2014.OBJ
+ 0001:000100f4       ___vba@05E84A4C            004110f4     ALP2014.OBJ
+ 0001:0001055c       ___vba@05EAB79C            0041155c     ALP2014.OBJ
+ 0001:00010e60       ___vba@05E1993C            00411e60     ALP2014.OBJ
+ 0001:000118a0       ___vba@05E83EEC            004128a0     ALP2014.OBJ
+ 0001:00012390       ___vba@05E84E9C            00413390     ALP2014.OBJ
+ 0001:0001472c       ___vba@05E5C6F4            0041572c     ALP2014.OBJ
+ 0001:00014c00       ___vba@05E5C74C            00415c00     ALP2014.OBJ
+ 0001:00014c08       ___vba@05E5C758            00415c08     ALP2014.OBJ
+ 0001:00014c10       ___vba@05E5C764            00415c10     ALP2014.OBJ
+ 0001:00014c18       ___vba@05E5C770            00415c18     ALP2014.OBJ
+ 0001:00014c24       ___vba@05E5C780            00415c24     ALP2014.OBJ
+ 0001:00014c2c       ___vba@05E5C78C            00415c2c     ALP2014.OBJ
+ 0001:00014c34       ___vba@05E5C798            00415c34     ALP2014.OBJ
+ 0001:00014c40       ___vba@05E5C7A8            00415c40     ALP2014.OBJ
+ 0001:00014c48       ___vba@05E5C7B4            00415c48     ALP2014.OBJ
+ 0001:00014c50       ___vba@05E5C7C0            00415c50     ALP2014.OBJ
+ 0001:00014c54       ___vba@05E5C7C8            00415c54     ALP2014.OBJ
+ 0001:00014c5c       ___vba@05E5C7D4            00415c5c     ALP2014.OBJ
+ 0001:00014c64       ___vba@05E5C7E0            00415c64     ALP2014.OBJ
+ 0001:00014c70       ___vba@05E5C7F0            00415c70     ALP2014.OBJ
+ 0001:00014c80       ___vba@05E5C804            00415c80     ALP2014.OBJ
+ 0001:00014c90       ___vba@05E5C818            00415c90     ALP2014.OBJ
+ 0001:00014ca0       ___vba@05E5C82C            00415ca0     ALP2014.OBJ
+ 0001:00014cb0       ___vba@05E5C840            00415cb0     ALP2014.OBJ
+ 0001:00014cc0       ___vba@05E5C854            00415cc0     ALP2014.OBJ
+ 0001:00014cc8       ___vba@05E5C860            00415cc8     ALP2014.OBJ
+ 0001:00014cd8       ___vba@05E5C874            00415cd8     ALP2014.OBJ
+ 0001:00014cdc       ___vba@05E5C87C            00415cdc     ALP2014.OBJ
+ 0001:00014d04       ___vba@05E5C8A8            00415d04     ALP2014.OBJ
+ 0001:00014d0c       ___vba@05E5C8B4            00415d0c     ALP2014.OBJ
+ 0001:00014d14       ___vba@05E5C8C0            00415d14     ALP2014.OBJ
+ 0001:00014d24       ___vba@05E5C8D4            00415d24     ALP2014.OBJ
+ 0001:00014d2c       ___vba@05E5C8E0            00415d2c     ALP2014.OBJ
+ 0001:00014d34       ___vba@05E6BB2C            00415d34     ALP2014.OBJ
+ 0001:00014d3c       ___vba@05E6BB38            00415d3c     ALP2014.OBJ
+ 0001:00014d44       ___vba@05E6BB44            00415d44     ALP2014.OBJ
+ 0001:00014d4c       ___vba@05E6BB50            00415d4c     ALP2014.OBJ
+ 0001:00014d54       ___vba@05E6BB5C            00415d54     ALP2014.OBJ
+ 0001:00014d5c       ___vba@05E6BB68            00415d5c     ALP2014.OBJ
+ 0001:00014d6c       ___vba@05E6BB7C            00415d6c     ALP2014.OBJ
+ 0001:00014d74       ___vba@05E6BB88            00415d74     ALP2014.OBJ
+ 0001:00014d7c       ___vba@05E6BB94            00415d7c     ALP2014.OBJ
+ 0001:00014d84       ___vba@05E6BBA0            00415d84     ALP2014.OBJ
+ 0001:00014d8c       ___vba@05E6BBAC            00415d8c     ALP2014.OBJ
+ 0001:00014d94       ___vba@05E6BBB8            00415d94     ALP2014.OBJ
+ 0001:00014d9c       ___vba@05E6BBC4            00415d9c     ALP2014.OBJ
+ 0001:00014da4       ___vba@05E6BBD0            00415da4     ALP2014.OBJ
+ 0001:00014dac       ___vba@05E6BBDC            00415dac     ALP2014.OBJ
+ 0001:00014db4       ___vba@05E6BBE8            00415db4     ALP2014.OBJ
+ 0001:00014dbc       ___vba@05E6BBF4            00415dbc     ALP2014.OBJ
+ 0001:00014dc4       ___vba@05E6BC00            00415dc4     ALP2014.OBJ
+ 0001:00014dcc       ___vba@05E6BC0C            00415dcc     ALP2014.OBJ
+ 0001:00014dd4       ___vba@05E6BC18            00415dd4     ALP2014.OBJ
+ 0001:00014ddc       ___vba@05E6BC24            00415ddc     ALP2014.OBJ
+ 0001:00014de4       ___vba@05E6BC30            00415de4     ALP2014.OBJ
+ 0001:00014dec       ___vba@05E6BC3C            00415dec     ALP2014.OBJ
+ 0001:00014df4       ___vba@05E6BC48            00415df4     ALP2014.OBJ
+ 0001:00014dfc       ___vba@05E6BC54            00415dfc     ALP2014.OBJ
+ 0001:00014e04       ___vba@05E6BC60            00415e04     ALP2014.OBJ
+ 0001:00014e0c       ___vba@05E6BC6C            00415e0c     ALP2014.OBJ
+ 0001:00014e14       ___vba@05E6BC78            00415e14     ALP2014.OBJ
+ 0001:00014e1c       ___vba@05E6BC84            00415e1c     ALP2014.OBJ
+ 0001:00014e2c       ___vba@05E6BC98            00415e2c     ALP2014.OBJ
+ 0001:00014e38       ___vba@05E6BCA8            00415e38     ALP2014.OBJ
+ 0001:00014e40       ___vba@05E6BCB4            00415e40     ALP2014.OBJ
+ 0001:00014e48       ___vba@05E6BCC0            00415e48     ALP2014.OBJ
+ 0001:00014e50       ___vba@05E6BCCC            00415e50     ALP2014.OBJ
+ 0001:00014e58       ___vba@05E6BCD8            00415e58     ALP2014.OBJ
+ 0001:00014e64       ___vba@05E6BCE8            00415e64     ALP2014.OBJ
+ 0001:00014e70       ___vba@05E6BCF8            00415e70     ALP2014.OBJ
+ 0001:00014e78       ___vba@05E6BD04            00415e78     ALP2014.OBJ
+ 0001:00014e84       ___vba@05E6BD14            00415e84     ALP2014.OBJ
+ 0001:00014e8c       ___vba@05E6BD20            00415e8c     ALP2014.OBJ
+ 0001:00014e94       ___vba@05E6BD54            00415e94     ALP2014.OBJ
+ 0001:00014e9c       ___vba@05E6BD60            00415e9c     ALP2014.OBJ
+ 0001:00014ea4       ___vba@05E6BD6C            00415ea4     ALP2014.OBJ
+ 0001:00014eb4       ___vba@05E6BD80            00415eb4     ALP2014.OBJ
+ 0001:00014ebc       ___vba@05E6BD8C            00415ebc     ALP2014.OBJ
+ 0001:00014ecc       ___vba@05E6BDA0            00415ecc     ALP2014.OBJ
+ 0001:00014ed4       ___vba@05E6BDAC            00415ed4     ALP2014.OBJ
+ 0001:00014edc       ___vba@05E6BDB8            00415edc     ALP2014.OBJ
+ 0001:00014ee4       ___vba@05E6BDC4            00415ee4     ALP2014.OBJ
+ 0001:00014eec       ___vba@05E6BDD0            00415eec     ALP2014.OBJ
+ 0001:00014ef4       ___vba@05E6BDDC            00415ef4     ALP2014.OBJ
+ 0001:00014efc       ___vba@05E6BDE8            00415efc     ALP2014.OBJ
+ 0001:00014f04       ___vba@05E6BDF4            00415f04     ALP2014.OBJ
+ 0001:00014f0c       ___vba@05E6BE00            00415f0c     ALP2014.OBJ
+ 0001:00014f14       ___vba@05E6BE0C            00415f14     ALP2014.OBJ
+ 0001:00014f1c       ___vba@05E6BE18            00415f1c     ALP2014.OBJ
+ 0001:00014f24       ___vba@05E6BE24            00415f24     ALP2014.OBJ
+ 0001:00014f30       ___vba@05E6BE34            00415f30     ALP2014.OBJ
+ 0001:00014f38       ___vba@05E6BE40            00415f38     ALP2014.OBJ
+ 0001:00014f40       ___vba@05E6BE4C            00415f40     ALP2014.OBJ
+ 0001:00014f48       ___vba@05E6BE58            00415f48     ALP2014.OBJ
+ 0001:00014f50       ___vba@05E6BE64            00415f50     ALP2014.OBJ
+ 0001:00014f58       ___vba@05E6BE70            00415f58     ALP2014.OBJ
+ 0001:00014f60       ___vba@05E6BE7C            00415f60     ALP2014.OBJ
+ 0001:00014f68       ___vba@05E6BE88            00415f68     ALP2014.OBJ
+ 0001:00014f70       ___vba@05E6BE94            00415f70     ALP2014.OBJ
+ 0001:00014f78       ___vba@05E6BEA0            00415f78     ALP2014.OBJ
+ 0001:00014f80       ___vba@05E6BEAC            00415f80     ALP2014.OBJ
+ 0001:00014f88       ___vba@05E6BEB8            00415f88     ALP2014.OBJ
+ 0001:00014f90       ___vba@05E6BEC4            00415f90     ALP2014.OBJ
+ 0001:00014f98       ___vba@05E6BED0            00415f98     ALP2014.OBJ
+ 0001:00014fa0       ___vba@05E6BEDC            00415fa0     ALP2014.OBJ
+ 0001:00014fa8       ___vba@05E6BEE8            00415fa8     ALP2014.OBJ
+ 0001:00014fb0       ___vba@05E6BEF4            00415fb0     ALP2014.OBJ
+ 0001:00014fb8       ___vba@05E6BF00            00415fb8     ALP2014.OBJ
+ 0001:00014fc0       ___vba@05E6BF0C            00415fc0     ALP2014.OBJ
+ 0001:00014fc8       ___vba@05E6BF18            00415fc8     ALP2014.OBJ
+ 0001:00014fd0       ___vba@05E6BF24            00415fd0     ALP2014.OBJ
+ 0001:00014fdc       ___vba@05E6BF34            00415fdc     ALP2014.OBJ
+ 0001:00014fe4       ___vba@05E6BF40            00415fe4     ALP2014.OBJ
+ 0001:00014ff4       ___vba@05E5CB44            00415ff4     ALP2014.OBJ
+ 0001:00014ffc       ___vba@05E5CB50            00415ffc     ALP2014.OBJ
+ 0001:00015004       ___vba@05E5CB5C            00416004     ALP2014.OBJ
+ 0001:0001500c       ___vba@05E5CB68            0041600c     ALP2014.OBJ
+ 0001:00015014       ___vba@05E5CB74            00416014     ALP2014.OBJ
+ 0001:00015024       ___vba@05E5CB88            00416024     ALP2014.OBJ
+ 0001:0001502c       ___vba@05E5CB94            0041602c     ALP2014.OBJ
+ 0001:00015034       ___vba@05E5CBA0            00416034     ALP2014.OBJ
+ 0001:0001503c       ___vba@05E5CBAC            0041603c     ALP2014.OBJ
+ 0001:00015044       ___vba@05E5CBB8            00416044     ALP2014.OBJ
+ 0001:0001504c       ___vba@05E5CBC4            0041604c     ALP2014.OBJ
+ 0001:00015054       ___vba@05E5CBD0            00416054     ALP2014.OBJ
+ 0001:0001505c       ___vba@05E5CBDC            0041605c     ALP2014.OBJ
+ 0001:00015064       ___vba@05E5CBE8            00416064     ALP2014.OBJ
+ 0001:0001506c       ___vba@05E5CBF4            0041606c     ALP2014.OBJ
+ 0001:00015074       ___vba@05E5CC00            00416074     ALP2014.OBJ
+ 0001:0001507c       ___vba@05E5CC0C            0041607c     ALP2014.OBJ
+ 0001:00015084       ___vba@05E5CC18            00416084     ALP2014.OBJ
+ 0001:0001508c       ___vba@05E5CC24            0041608c     ALP2014.OBJ
+ 0001:00015094       ___vba@05E5CC30            00416094     ALP2014.OBJ
+ 0001:0001509c       ___vba@05E5CC3C            0041609c     ALP2014.OBJ
+ 0001:000150a4       ___vba@05E5CC48            004160a4     ALP2014.OBJ
+ 0001:000150ac       ___vba@05E5CC54            004160ac     ALP2014.OBJ
+ 0001:000150b4       ___vba@05E5CC60            004160b4     ALP2014.OBJ
+ 0001:000150bc       ___vba@05E5CC6C            004160bc     ALP2014.OBJ
+ 0001:000150c4       ___vba@05E5CC78            004160c4     ALP2014.OBJ
+ 0001:000150cc       ___vba@05E5CC84            004160cc     ALP2014.OBJ
+ 0001:000150d8       ___vba@05E5CC94            004160d8     ALP2014.OBJ
+ 0001:000150e4       ___vba@05E5CCA4            004160e4     ALP2014.OBJ
+ 0001:000150f0       ___vba@05E5CCB4            004160f0     ALP2014.OBJ
+ 0001:000150fc       ___vba@05E5CCC4            004160fc     ALP2014.OBJ
+ 0001:00015104       ___vba@05E5CCD0            00416104     ALP2014.OBJ
+ 0001:0001510c       ___vba@05E5CCDC            0041610c     ALP2014.OBJ
+ 0001:00015114       ___vba@05E5CCE8            00416114     ALP2014.OBJ
+ 0001:0001511c       ___vba@05E5CCF4            0041611c     ALP2014.OBJ
+ 0001:00015124       ___vba@05E5CD00            00416124     ALP2014.OBJ
+ 0001:0001512c       ___vba@05E5CD0C            0041612c     ALP2014.OBJ
+ 0001:00015134       ___vba@05E5CD18            00416134     ALP2014.OBJ
+ 0001:0001513c       ___vba@05E5CD24            0041613c     ALP2014.OBJ
+ 0001:00015144       ___vba@05E5CD30            00416144     ALP2014.OBJ
+ 0001:0001514c       ___vba@05E6BF7C            0041614c     ALP2014.OBJ
+ 0001:00015154       ___vba@05E6BF88            00416154     ALP2014.OBJ
+ 0001:0001515c       ___vba@05E6BF94            0041615c     ALP2014.OBJ
+ 0001:00015164       ___vba@05E6BFA0            00416164     ALP2014.OBJ
+ 0001:0001516c       ___vba@05E6BFAC            0041616c     ALP2014.OBJ
+ 0001:00015174       ___vba@05E6BFB8            00416174     ALP2014.OBJ
+ 0001:0001517c       ___vba@05E6BFC4            0041617c     ALP2014.OBJ
+ 0001:00015184       ___vba@05E6BFD0            00416184     ALP2014.OBJ
+ 0001:0001518c       ___vba@05E6BFDC            0041618c     ALP2014.OBJ
+ 0001:00015194       ___vba@05E6BFE8            00416194     ALP2014.OBJ
+ 0001:000151a0       ___vba@05E6BFF8            004161a0     ALP2014.OBJ
+ 0001:000151a8       ___vba@05E6C004            004161a8     ALP2014.OBJ
+ 0001:000151b4       ___vba@05E6C014            004161b4     ALP2014.OBJ
+ 0001:000151c0       ___vba@05E6C024            004161c0     ALP2014.OBJ
+ 0001:000151c8       ___vba@05E6C030            004161c8     ALP2014.OBJ
+ 0001:000151d0       ___vba@05E6C03C            004161d0     ALP2014.OBJ
+ 0001:000151e0       ___vba@05E6C050            004161e0     ALP2014.OBJ
+ 0001:000151f0       ___vba@05E6C060            004161f0     ALP2014.OBJ
+ 0001:000151fc       ___vba@05E6C070            004161fc     ALP2014.OBJ
+ 0001:00015228       ___vba@05E6C08C            00416228     ALP2014.OBJ
+ 0001:00015244       ___vba@05E6C0C4            00416244     ALP2014.OBJ
+ 0001:00015250       ___vba@05E6C0D4            00416250     ALP2014.OBJ
+ 0001:00015260       ___vba@05E6C0E8            00416260     ALP2014.OBJ
+ 0001:00015274       ___vba@05E6C0FC            00416274     ALP2014.OBJ
+ 0001:0001527c       ___vba@05E6C108            0041627c     ALP2014.OBJ
+ 0001:000152cc       ___vba@05E6C15C            004162cc     ALP2014.OBJ
+ 0001:000152d8       ___vba@05E6C16C            004162d8     ALP2014.OBJ
+ 0001:000152e4       ___vba@05E84C74            004162e4     ALP2014.OBJ
+ 0001:000152f0       ___vba@05E84C84            004162f0     ALP2014.OBJ
+ 0001:000152f8       ___vba@05E84C90            004162f8     ALP2014.OBJ
+ 0001:00015308       ___vba@05E84CA4            00416308     ALP2014.OBJ
+ 0001:0001530c       ___vba@05E84CB0            0041630c     ALP2014.OBJ
+ 0001:0001531c       ___vba@05E84CC4            0041631c     ALP2014.OBJ
+ 0001:0001532c       ___vba@05E84CD8            0041632c     ALP2014.OBJ
+ 0001:0001533c       ___vba@05E84CEC            0041633c     ALP2014.OBJ
+ 0001:0001534c       ___vba@05E84D00            0041634c     ALP2014.OBJ
+ 0001:00015358       ___vba@05E84D10            00416358     ALP2014.OBJ
+ 0001:00015364       ___vba@05E84D20            00416364     ALP2014.OBJ
+ 0001:00015370       ___vba@05E84D30            00416370     ALP2014.OBJ
+ 0001:00015380       ___vba@05E84D40            00416380     ALP2014.OBJ
+ 0001:000153d0       ___vba@05E84D94            004163d0     ALP2014.OBJ
+ 0001:00015420       ___vba@05E84DE8            00416420     ALP2014.OBJ
+ 0001:0001542c       ___vba@05E84DF8            0041642c     ALP2014.OBJ
+ 0001:0001543c       ___vba@05E84E0C            0041643c     ALP2014.OBJ
+ 0001:00015488       ___vba@05E84E60            00416488     ALP2014.OBJ
+ 0001:0001549c       ___vba@05E85C24            0041649c     ALP2014.OBJ
+ 0001:000154ec       ___vba@05E85C78            004164ec     ALP2014.OBJ
+ 0001:000154f8       ___vba@05E85C88            004164f8     ALP2014.OBJ
+ 0001:00015508       ___vba@05E85C9C            00416508     ALP2014.OBJ
+ 0001:00015558       ___vba@05E85CF0            00416558     ALP2014.OBJ
+ 0001:000155a4       ___vba@05E85D40            004165a4     ALP2014.OBJ
+ 0001:000155ac       ___vba@05E85D4C            004165ac     ALP2014.OBJ
+ 0001:000155bc       ___vba@05E85D60            004165bc     ALP2014.OBJ
+ 0001:0001560c       ___vba@05E85DB4            0041660c     ALP2014.OBJ
+ 0001:00015658       ___vba@05E85E04            00416658     ALP2014.OBJ
+ 0001:00015660       ___vba@05E85E10            00416660     ALP2014.OBJ
+ 0001:00015670       ___vba@05E85E4C            00416670     ALP2014.OBJ
+ 0001:000156c0       ___vba@05E85EA0            004166c0     ALP2014.OBJ
+ 0001:0001570c       ___vba@05E85EF0            0041670c     ALP2014.OBJ
+ 0001:00015714       ___vba@05E85EFC            00416714     ALP2014.OBJ
+ 0001:00015724       ___vba@05E85F10            00416724     ALP2014.OBJ
+ 0001:00015774       ___vba@05E85F64            00416774     ALP2014.OBJ
+ 0001:000157c0       ___vba@05E85FB4            004167c0     ALP2014.OBJ
+ 0001:000157c8       ___vba@05E85FC0            004167c8     ALP2014.OBJ
+ 0001:000157d8       ___vba@05E85FD4            004167d8     ALP2014.OBJ
+ 0001:00015824       ___vba@05E86028            00416824     ALP2014.OBJ
+ 0001:00015830       ___vba@05E86038            00416830     ALP2014.OBJ
+ 0001:00015844       ___vba@05E86074            00416844     ALP2014.OBJ
+ 0001:00015890       ___vba@05E860C4            00416890     ALP2014.OBJ
+ 0001:00015898       ___vba@05E860D0            00416898     ALP2014.OBJ
+ 0001:000158a8       ___vba@05E860E4            004168a8     ALP2014.OBJ
+ 0001:000158f4       ___vba@05E86138            004168f4     ALP2014.OBJ
+ 0001:00015908       ___vba@05E8614C            00416908     ALP2014.OBJ
+ 0001:0001592c       ___vba@05E86174            0041692c     ALP2014.OBJ
+ 0001:00015938       ___vba@05E86184            00416938     ALP2014.OBJ
+ 0001:00015940       ___vba@05E86190            00416940     ALP2014.OBJ
+ 0001:0001594c       ___vba@05E861A0            0041694c     ALP2014.OBJ
+ 0001:00015958       ___vba@05E861B0            00416958     ALP2014.OBJ
+ 0001:00015960       ___vba@05E861BC            00416960     ALP2014.OBJ
+ 0001:00015968       ___vba@05E861C8            00416968     ALP2014.OBJ
+ 0001:000159a0       ___vba@05E86204            004169a0     ALP2014.OBJ
+ 0001:000159c0       ___vba@05E86228            004169c0     ALP2014.OBJ
+ 0001:000159ec       ___vba@05E8625C            004169ec     ALP2014.OBJ
+ 0001:00015a04       ___vba@05E8629C            00416a04     ALP2014.OBJ
+ 0001:00015a34       ___vba@05E862D0            00416a34     ALP2014.OBJ
+ 0001:00015a48       ___vba@05E862EC            00416a48     ALP2014.OBJ
+ 0001:00015a58       ___vba@05E86300            00416a58     ALP2014.OBJ
+ 0001:00015a68       ___vba@05E86314            00416a68     ALP2014.OBJ
+ 0001:00015a78       ___vba@05E86328            00416a78     ALP2014.OBJ
+ 0001:00015a88       ___vba@05E8633C            00416a88     ALP2014.OBJ
+ 0001:00015a9c       ___vba@05E86350            00416a9c     ALP2014.OBJ
+ 0001:00015aac       ___vba@05E86364            00416aac     ALP2014.OBJ
+ 0001:00015ad4       ___vba@05E8637C            00416ad4     ALP2014.OBJ
+ 0001:00015af4       ___vba@05E863B4            00416af4     ALP2014.OBJ
+ 0001:00015b1c       ___vba@05E863CC            00416b1c     ALP2014.OBJ
+ 0001:00015b3c       ___vba@05E86404            00416b3c     ALP2014.OBJ
+ 0001:00015b70       ___vba@05E86428            00416b70     ALP2014.OBJ
+ 0001:00015b90       ___vba@05E86460            00416b90     ALP2014.OBJ
+ 0001:00015ba4       ___vba@05E86478            00416ba4     ALP2014.OBJ
+ 0001:00015bcc       ___vba@05E864C4            00416bcc     ALP2014.OBJ
+ 0001:00015be8       ___vba@05E864FC            00416be8     ALP2014.OBJ
+ 0001:00015bf4       ___vba@05E8650C            00416bf4     ALP2014.OBJ
+ 0001:00015c04       ___vba@05E86520            00416c04     ALP2014.OBJ
+ 0001:00015c18       ___vba@05E86534            00416c18     ALP2014.OBJ
+ 0001:00015c54       ___vba@05E86574            00416c54     ALP2014.OBJ
+ 0001:00015ca0       ___vba@05E865C4            00416ca0     ALP2014.OBJ
+ 0001:00015cb0       ___vba@05E865D8            00416cb0     ALP2014.OBJ
+ 0001:00015d00       ___vba@05E8662C            00416d00     ALP2014.OBJ
+ 0001:00015d4c       ___vba@05E8667C            00416d4c     ALP2014.OBJ
+ 0001:00015d58       ___vba@05E86690            00416d58     ALP2014.OBJ
+ 0001:00015d68       ___vba@05E866A4            00416d68     ALP2014.OBJ
+ 0001:00015d7c       ___vba@05E866EC            00416d7c     ALP2014.OBJ
+ 0001:00015dcc       ___vba@05E86740            00416dcc     ALP2014.OBJ
+ 0001:00015e18       ___vba@05E86790            00416e18     ALP2014.OBJ
+ 0001:00015e28       ___vba@05E867A4            00416e28     ALP2014.OBJ
+ 0001:00015e78       ___vba@05E867F8            00416e78     ALP2014.OBJ
+ 0001:00015ec4       ___vba@05E86848            00416ec4     ALP2014.OBJ
+ 0001:00015ed4       ___vba@05E8685C            00416ed4     ALP2014.OBJ
+ 0001:00015f24       ___vba@05E868B0            00416f24     ALP2014.OBJ
+ 0001:00015f3c       ___vba@05E868CC            00416f3c     ALP2014.OBJ
+ 0001:00015f50       ___vba@05E5872C            00416f50     ALP2014.OBJ
+ 0001:00015f9c       ___vba@05E5877C            00416f9c     ALP2014.OBJ
+ 0001:00015fc0       ___vba@05E587A4            00416fc0     ALP2014.OBJ
+ 0001:00016000       ___vba@05E587EC            00417000     ALP2014.OBJ
+ 0001:00016010       ___vba@05E58800            00417010     ALP2014.OBJ
+ 0001:00016020       ___vba@05E58814            00417020     ALP2014.OBJ
+ 0001:00016030       ___vba@05E58828            00417030     ALP2014.OBJ
+ 0001:00016040       ___vba@05E5883C            00417040     ALP2014.OBJ
+ 0001:00016054       ___vba@05E58850            00417054     ALP2014.OBJ
+ 0001:00016074       ___vba@05E58874            00417074     ALP2014.OBJ
+ 0001:000160a0       ___vba@05E588A8            004170a0     ALP2014.OBJ
+ 0001:000160b0       ___vba@05E588BC            004170b0     ALP2014.OBJ
+ 0001:000160c0       ___vba@05E588D0            004170c0     ALP2014.OBJ
+ 0001:000160d0       ___vba@05E588E4            004170d0     ALP2014.OBJ
+ 0001:000160e0       ___vba@05E588F8            004170e0     ALP2014.OBJ
+ 0001:000160f0       ___vba@05E5890C            004170f0     ALP2014.OBJ
+ 0001:000160f8       ___vba@05E58918            004170f8     ALP2014.OBJ
+ 0001:0001610c       ___vba@05E58B7C            0041710c     ALP2014.OBJ
+ 0001:00016154       ___vba@05E58BC8            00417154     ALP2014.OBJ
+ 0001:00016160       ___vba@05E58BD8            00417160     ALP2014.OBJ
+ 0001:0001617c       ___vba@05E58BF8            0041717c     ALP2014.OBJ
+ 0001:000161c0       ___vba@05E58C44            004171c0     ALP2014.OBJ
+ 0001:000161cc       ___vba@05E58C54            004171cc     ALP2014.OBJ
+ 0001:000161dc       ___vba@05E58C68            004171dc     ALP2014.OBJ
+ 0001:000161e8       ___vba@05E58C78            004171e8     ALP2014.OBJ
+ 0001:000161f8       ___vba@05E58C88            004171f8     ALP2014.OBJ
+ 0001:00016220       ___vba@05E58CA0            00417220     ALP2014.OBJ
+ 0001:00016240       ___vba@05E58CD8            00417240     ALP2014.OBJ
+ 0001:00016268       ___vba@05E58CF0            00417268     ALP2014.OBJ
+ 0001:0001629c       ___vba@05E58D28            0041729c     ALP2014.OBJ
+ 0001:000162bc       ___vba@05E58D60            004172bc     ALP2014.OBJ
+ 0001:000162e0       ___vba@05E58DA4            004172e0     ALP2014.OBJ
+ 0001:000162fc       ___vba@05E58DDC            004172fc     ALP2014.OBJ
+ 0001:0001630c       ___vba@05E58DEC            0041730c     ALP2014.OBJ
+ 0001:00016314       ___vba@05E58DF8            00417314     ALP2014.OBJ
+ 0001:0001631c       ___vba@05E58E04            0041731c     ALP2014.OBJ
+ 0001:00016324       ___vba@05E58E10            00417324     ALP2014.OBJ
+ 0001:00016330       ___vba@05E58E20            00417330     ALP2014.OBJ
+ 0001:00016370       ___vba@05E58E64            00417370     ALP2014.OBJ
+ 0001:00016384       ___vba@05E58E80            00417384     ALP2014.OBJ
+ 0001:00016390       ___vba@05E58F00            00417390     ALP2014.OBJ
+ 0001:000163a0       ___vba@05E58F4C            004173a0     ALP2014.OBJ
+ 0001:000163b0       ___vba@05E59004            004173b0     ALP2014.OBJ
+ 0001:000163bc       ___vba@05E59084            004173bc     ALP2014.OBJ
+ 0001:000163d0       ___vba@05E590D4            004173d0     ALP2014.OBJ
+ 0001:000163dc       ___vba@05E5911C            004173dc     ALP2014.OBJ
+ 0001:000163ec       ___vba@05E59168            004173ec     ALP2014.OBJ
+ 0001:000163fc       ___vba@05E591B0            004173fc     ALP2014.OBJ
+ 0001:00016410       ___vba@05E59454            00417410     ALP2014.OBJ
+ 0001:00016420       ___vba@05E594D8            00417420     ALP2014.OBJ
+ 0001:0001642c       ___vba@05E59558            0041742c     ALP2014.OBJ
+ 0001:00016440       ___vba@05E595A8            00417440     ALP2014.OBJ
+ 0001:00016454       ___vba@05E595F8            00417454     ALP2014.OBJ
+ 0001:00016460       ___vba@05E59608            00417460     ALP2014.OBJ
+ 0001:00016470       ___vba@05E88434            00417470     ALP2014.OBJ
+ 0001:0001647c       ___vba@05E8847C            0041747c     ALP2014.OBJ
+ 0001:0001648c       ___vba@05E884C8            0041748c     ALP2014.OBJ
+ 0001:0001649c       ___vba@05E88514            0041749c     ALP2014.OBJ
+ 0001:000164b4       ___vba@05E88568            004174b4     ALP2014.OBJ
+ 0001:000164c0       ___vba@05E885B0            004174c0     ALP2014.OBJ
+ 0001:000164d4       ___vba@05E885C8            004174d4     ALP2014.OBJ
+ 0001:000164e4       ___vba@05E885D8            004174e4     ALP2014.OBJ
+ 0001:000164f4       ___vba@05E886CC            004174f4     ALP2014.OBJ
+ 0001:00016500       ___vba@05E88714            00417500     ALP2014.OBJ
+ 0001:00016510       ___vba@05E88760            00417510     ALP2014.OBJ
+ 0001:00016520       ___vba@05E88774            00417520     ALP2014.OBJ
+ 0001:00016530       ___vba@05E88788            00417530     ALP2014.OBJ
+ 0001:00016540       ___vba@05E8879C            00417540     ALP2014.OBJ
+ 0001:00016550       ___vba@05E887B0            00417550     ALP2014.OBJ
+ 0001:00016560       ___vba@05E887C4            00417560     ALP2014.OBJ
+ 0001:00016570       ___vba@05E887D8            00417570     ALP2014.OBJ
+ 0001:0001657c       ___vba@05E887E8            0041757c     ALP2014.OBJ
+ 0001:0001658c       ___vba@05E887FC            0041758c     ALP2014.OBJ
+ 0001:00016598       ___vba@05E8880C            00417598     ALP2014.OBJ
+ 0001:000165bc       ___vba@05E8884C            004175bc     ALP2014.OBJ
+ 0001:000165dc       ___vba@05E88884            004175dc     ALP2014.OBJ
+ 0001:00016604       ___vba@05E8889C            00417604     ALP2014.OBJ
+ 0001:00016624       ___vba@05E888D4            00417624     ALP2014.OBJ
+ 0001:00016654       ___vba@05E888F4            00417654     ALP2014.OBJ
+ 0001:00016674       ___vba@05E8892C            00417674     ALP2014.OBJ
+ 0001:00016684       ___vba@05E88940            00417684     ALP2014.OBJ
+ 0001:000166a8       ___vba@05E88954            004176a8     ALP2014.OBJ
+ 0001:000166c8       ___vba@05E8898C            004176c8     ALP2014.OBJ
+ 0001:000166ec       ___vba@05E889A0            004176ec     ALP2014.OBJ
+ 0001:0001670c       ___vba@05E889D8            0041770c     ALP2014.OBJ
+ 0001:0001672c       ___vba@05E889E8            0041772c     ALP2014.OBJ
+ 0001:0001674c       ___vba@05E88A20            0041774c     ALP2014.OBJ
+ 0001:0001675c       ___vba@05E88A38            0041775c     ALP2014.OBJ
+ 0001:00016784       ___vba@05E88A74            00417784     ALP2014.OBJ
+ 0001:000167a4       ___vba@05E88AAC            004177a4     ALP2014.OBJ
+ 0001:000167c8       ___vba@05E88AC0            004177c8     ALP2014.OBJ
+ 0001:000167e8       ___vba@05E88AF8            004177e8     ALP2014.OBJ
+ 0001:0001680c       ___vba@05E88B0C            0041780c     ALP2014.OBJ
+ 0001:0001682c       ___vba@05E88B44            0041782c     ALP2014.OBJ
+ 0001:00016854       ___vba@05E88B5C            00417854     ALP2014.OBJ
+ 0001:00016870       ___vba@05E88B94            00417870     ALP2014.OBJ
+ 0001:0001687c       ___vba@05E88BA4            0041787c     ALP2014.OBJ
+ 0001:00016888       ___vba@05E88BB4            00417888     ALP2014.OBJ
+ 0001:00016890       ___vba@05E88BC0            00417890     ALP2014.OBJ
+ 0001:00016898       ___vba@05E88BCC            00417898     ALP2014.OBJ
+ 0001:000168a8       ___vba@05E88BE0            004178a8     ALP2014.OBJ
+ 0001:000168b8       ___vba@05E88BF4            004178b8     ALP2014.OBJ
+ 0001:000168c4       ___vba@05E88C04            004178c4     ALP2014.OBJ
+ 0001:000168d0       ___vba@05E88C14            004178d0     ALP2014.OBJ
+ 0001:000168d8       ___vba@05E88C20            004178d8     ALP2014.OBJ
+ 0001:000168e8       ___vba@05E88C34            004178e8     ALP2014.OBJ
+ 0001:000168f4       ___vba@05E88C44            004178f4     ALP2014.OBJ
+ 0001:0001690c       ___vba@05E88C60            0041790c     ALP2014.OBJ
+ 0001:0001691c       ___vba@05E83684            0041791c     ALP2014.OBJ
+ 0001:0001692c       ___vba@05E836D0            0041792c     ALP2014.OBJ
+ 0001:00016944       ___vba@05E83728            00417944     ALP2014.OBJ
+ 0001:00016950       ___vba@05E83770            00417950     ALP2014.OBJ
+ 0001:00016960       ___vba@05E837BC            00417960     ALP2014.OBJ
+ 0001:0001696c       ___vba@05E83804            0041796c     ALP2014.OBJ
+ 0001:00016978       ___vba@05E83AD4            00417978     ALP2014.OBJ
+ 0001:00016984       ___vba@05E83B1C            00417984     ALP2014.OBJ
+ 0001:00016994       ___vba@05E83B68            00417994     ALP2014.OBJ
+ 0001:000169a4       ___vba@05E83BB4            004179a4     ALP2014.OBJ
+ 0001:000169b0       ___vba@05E83BFC            004179b0     ALP2014.OBJ
+ 0001:000169c4       ___vba@05E83C4C            004179c4     ALP2014.OBJ
+ 0001:000169d8       ___vba@05E83CFC            004179d8     ALP2014.OBJ
+ 0001:000169e8       ___vba@05E83D48            004179e8     ALP2014.OBJ
+ 0001:000169fc       ___vba@05E83D98            004179fc     ALP2014.OBJ
+ 0001:00016a10       ___vba@05E83DE8            00417a10     ALP2014.OBJ
+ 0001:00016a20       ___vba@05E83E6C            00417a20     ALP2014.OBJ
+ 0001:00016a30       ___vba@05E6C404            00417a30     ALP2014.OBJ
+ 0001:00016a3c       ___vba@05E6C44C            00417a3c     ALP2014.OBJ
+ 0001:00016a4c       ___vba@05E6C498            00417a4c     ALP2014.OBJ
+ 0001:00016a58       ___vba@05E6C550            00417a58     ALP2014.OBJ
+ 0001:00016a64       ___vba@05E6C598            00417a64     ALP2014.OBJ
+ 0001:00016a74       ___vba@05E6C5AC            00417a74     ALP2014.OBJ
+ 0001:00016a84       ___vba@05E6CF7C            00417a84     ALP2014.OBJ
+ 0001:00016a94       ___vba@05E6CF90            00417a94     ALP2014.OBJ
+ 0001:00016aa4       ___vba@05E6CFA4            00417aa4     ALP2014.OBJ
+ 0001:00016aac       ___vba@05E6CFB0            00417aac     ALP2014.OBJ
+ 0001:00016ab4       ___vba@05E6CFBC            00417ab4     ALP2014.OBJ
+ 0001:00016abc       ___vba@05E6CFC8            00417abc     ALP2014.OBJ
+ 0001:00016acc       ___vba@05E6CFD8            00417acc     ALP2014.OBJ
+ 0001:00016af4       ___vba@05E6D004            00417af4     ALP2014.OBJ
+ 0001:00016b04       ___vba@05E6D018            00417b04     ALP2014.OBJ
+ 0001:00016b10       ___vba@05E6D028            00417b10     ALP2014.OBJ
+ 0001:00016b58       ___vba@05E6D078            00417b58     ALP2014.OBJ
+ 0001:00016b68       ___vba@05E6D08C            00417b68     ALP2014.OBJ
+ 0001:00016b74       ___vba@05E6D09C            00417b74     ALP2014.OBJ
+ 0001:00016b80       ___vba@05E6D0E4            00417b80     ALP2014.OBJ
+ 0001:00016b98       ___vba@05E6D134            00417b98     ALP2014.OBJ
+ 0001:00016ba0       ___vba@05E6D140            00417ba0     ALP2014.OBJ
+ 0001:00016bc8       ___vba@05E6D1A4            00417bc8     ALP2014.OBJ
+ 0001:00016d38       ___vba@05E6D318            00417d38     ALP2014.OBJ
+ 0001:00016d44       ___vba@05E6D328            00417d44     ALP2014.OBJ
+ 0001:00016d50       ___vba@05E6D338            00417d50     ALP2014.OBJ
+ 0001:00016d5c       ___vba@05E6D348            00417d5c     ALP2014.OBJ
+ 0001:00016d64       ___vba@05E6D358            00417d64     ALP2014.OBJ
+ 0001:00016d74       ___vba@05E6D36C            00417d74     ALP2014.OBJ
+ 0001:00016d84       ___vba@05E6D380            00417d84     ALP2014.OBJ
+ 0001:00016d98       ___vba@05E6D3CC            00417d98     ALP2014.OBJ
+ 0001:00016db0       ___vba@05E6D3E8            00417db0     ALP2014.OBJ
+ 0001:00016de8       ___vba@05E6D428            00417de8     ALP2014.OBJ
+ 0001:00016df8       ___vba@05E6D43C            00417df8     ALP2014.OBJ
+ 0001:00016e08       ___vba@05E6D450            00417e08     ALP2014.OBJ
+ 0001:00016e18       ___vba@05E6D464            00417e18     ALP2014.OBJ
+ 0001:00016e28       ___vba@05E6D478            00417e28     ALP2014.OBJ
+ 0001:00016e38       ___vba@05E6D488            00417e38     ALP2014.OBJ
+ 0001:00016e5c       ___vba@05E6D4B0            00417e5c     ALP2014.OBJ
+ 0001:00016e78       ___vba@05E6D4D0            00417e78     ALP2014.OBJ
+ 0001:00016e88       ___vba@05E6D4E4            00417e88     ALP2014.OBJ
+ 0001:00016e9c       ___vba@05E6D4FC            00417e9c     ALP2014.OBJ
+ 0001:00016eb0       ___vba@05E6D514            00417eb0     ALP2014.OBJ
+ 0001:00016ec4       ___vba@05E6D530            00417ec4     ALP2014.OBJ
+ 0001:00016ed4       ___vba@05E6D544            00417ed4     ALP2014.OBJ
+ 0001:00016ee4       ___vba@05E6D558            00417ee4     ALP2014.OBJ
+ 0001:00016ef4       ___vba@05E6D56C            00417ef4     ALP2014.OBJ
+ 0001:00016f08       ___vba@05E6D580            00417f08     ALP2014.OBJ
+ 0001:00016f30       ___vba@05E6D5F4            00417f30     ALP2014.OBJ
+ 0001:00016f50       ___vba@05E6D618            00417f50     ALP2014.OBJ
+ 0001:00016f84       ___vba@05E6D650            00417f84     ALP2014.OBJ
+ 0001:00016f94       ___vba@05E6D664            00417f94     ALP2014.OBJ
+ 0001:00016fa4       ___vba@05E6D678            00417fa4     ALP2014.OBJ
+ 0001:00016fc0       ___vba@05E6D698            00417fc0     ALP2014.OBJ
+ 0001:00016fcc       ___vba@05E6D6E4            00417fcc     ALP2014.OBJ
+ 0001:00016fdc       ___vba@05E6D72C            00417fdc     ALP2014.OBJ
+ 0001:0001708c       ___vba@05E6D81C            0041808c     ALP2014.OBJ
+ 0001:0001710c       ___vba@05E6D8A0            0041810c     ALP2014.OBJ
+ 0001:00017118       ___vba@05E6D8B0            00418118     ALP2014.OBJ
+ 0001:00017124       ___vba@05E6D8C0            00418124     ALP2014.OBJ
+ 0001:00017164       ___vba@05E6D908            00418164     ALP2014.OBJ
+ 0001:00017174       ___vba@05E6D91C            00418174     ALP2014.OBJ
+ 0001:00017184       ___vba@05E6D930            00418184     ALP2014.OBJ
+ 0001:00017198       ___vba@05E6D944            00418198     ALP2014.OBJ
+ 0001:000171a8       ___vba@05E6D958            004181a8     ALP2014.OBJ
+ 0001:000171cc       ___vba@05E6D980            004181cc     ALP2014.OBJ
+ 0001:000171d4       ___vba@05E6D98C            004181d4     ALP2014.OBJ
+ 0001:000171e8       ___vba@05E6D9A4            004181e8     ALP2014.OBJ
+ 0001:000171fc       ___vba@05E6D9BC            004181fc     ALP2014.OBJ
+ 0001:00017208       ___vba@05E6D9CC            00418208     ALP2014.OBJ
+ 0001:0001721c       ___vba@05E6D9E4            0041821c     ALP2014.OBJ
+ 0001:00017238       ___vba@05E19FB4            00418238     ALP2014.OBJ
+ 0001:00017298       ___vba@05E1A018            00418298     ALP2014.OBJ
+ 0001:000172b0       ___vba@05E1A038            004182b0     ALP2014.OBJ
+ 0001:000172c0       ___vba@05E1A084            004182c0     ALP2014.OBJ
+ 0001:000172cc       ___vba@05E1A0CC            004182cc     ALP2014.OBJ
+ 0001:000172d8       ___vba@05E1A114            004182d8     ALP2014.OBJ
+ 0001:000172e8       ___vba@05E1A15C            004182e8     ALP2014.OBJ
+ 0001:00017300       ___vba@05E1A178            00418300     ALP2014.OBJ
+ 0001:00017320       ___vba@05E1A19C            00418320     ALP2014.OBJ
+ 0001:00017328       ___vba@05EAAAAC            00418328     ALP2014.OBJ
+ 0001:0003b180       ___vba@05E6CD54            0043c180     ALP2014.OBJ
+ 0001:0003b1c0       ___vba@05E5CD6C            0043c1c0     ALP2014.OBJ
+ 0001:0003b200       ___vba@05E1B62C            0043c200     ALP2014.OBJ
+ 0001:0003b240       ___vba@05EAACD4            0043c240     ALP2014.OBJ
+ 0001:0003b280       ___vba@05E1B1DC            0043c280     ALP2014.OBJ
+ 0001:0003b2c0       ___vba@05E1AD8C            0043c2c0     ALP2014.OBJ
+ 0001:0003b300       ___vba@05E19B64            0043c300     ALP2014.OBJ
+ 0001:0003b340       ___vba@05E850C4            0043c340     ALP2014.OBJ
+ 0001:0003b380       ___vba@05E1A93C            0043c380     ALP2014.OBJ
+ 0001:0003b3c0       ___vba@05E58954            0043c3c0     ALP2014.OBJ
+ 0001:0003b57c       ___vba@05E5C91C            0043c57c     ALP2014.OBJ
+ 0001:0003b5a4       ___vba@05E5C948            0043c5a4     ALP2014.OBJ
+ 0001:0003b5b0       ___vba@05E5C958            0043c5b0     ALP2014.OBJ
+ 0001:0003b5bc       ___vba@05E5C968            0043c5bc     ALP2014.OBJ
+ 0001:0003b5c8       ___vba@05E5C978            0043c5c8     ALP2014.OBJ
+ 0001:0003b5d4       ___vba@05E5C988            0043c5d4     ALP2014.OBJ
+ 0001:0003b5e0       ___vba@05E5C998            0043c5e0     ALP2014.OBJ
+ 0001:0003b5ec       ___vba@05E5C9A8            0043c5ec     ALP2014.OBJ
+ 0001:0003b5f8       ___vba@05E5C9B8            0043c5f8     ALP2014.OBJ
+ 0001:0003b604       ___vba@05E5C9C8            0043c604     ALP2014.OBJ
+ 0001:0003b610       ___vba@05E5C9D8            0043c610     ALP2014.OBJ
+ 0001:0003b61c       ___vba@05E5C9E8            0043c61c     ALP2014.OBJ
+ 0001:0003b628       ___vba@05E5C9F8            0043c628     ALP2014.OBJ
+ 0001:0003b634       ___vba@05E5CA08            0043c634     ALP2014.OBJ
+ 0001:0003b638       ___vba@05E5CA10            0043c638     ALP2014.OBJ
+ 0001:0003b730       VB@BTXT                    0043c730     ALP2014.OBJ
+ 0001:0003b740       ?Check10_Click@main@@AAGXXZ 0043c740 f   main.OBJ
+ 0001:0003bf20       ?Check11_Click@main@@AAGXXZ 0043cf20 f   main.OBJ
+ 0001:0003c700       ?Check12_Click@main@@AAGXXZ 0043d700 f   main.OBJ
+ 0001:0003cee0       ?Check5_Click@main@@AAGXXZ 0043dee0 f   main.OBJ
+ 0001:0003d6c0       ?Check6_Click@main@@AAGXXZ 0043e6c0 f   main.OBJ
+ 0001:0003dea0       ?Check7_Click@main@@AAGXXZ 0043eea0 f   main.OBJ
+ 0001:0003e680       ?Check8_Click@main@@AAGXXZ 0043f680 f   main.OBJ
+ 0001:0003ee60       ?Check9_Click@main@@AAGXXZ 0043fe60 f   main.OBJ
+ 0001:0003f640       ?Command11_Click@main@@AAGXXZ 00440640 f   main.OBJ
+ 0001:0003f830       ?Command12_Click@main@@AAGXXZ 00440830 f   main.OBJ
+ 0001:0003fa20       ?Command13_Click@main@@AAGXXZ 00440a20 f   main.OBJ
+ 0001:00040990       ?Command14_Click@main@@AAGXXZ 00441990 f   main.OBJ
+ 0001:00040cd0       ?Command5_Click@main@@AAGXXZ 00441cd0 f   main.OBJ
+ 0001:00040ec0       ?Command7_Click@main@@AAGXXZ 00441ec0 f   main.OBJ
+ 0001:000410b0       ?Command8_Click@main@@AAGXXZ 004420b0 f   main.OBJ
+ 0001:00042020       ?start_Timer@main@@AAGXXZ  00443020 f   main.OBJ
+ 0001:000426f0       ?stop1_Timer@main@@AAGXXZ  004436f0 f   main.OBJ
+ 0001:00042c10       ?Timer1_Timer@main@@AAGXXZ 00443c10 f   main.OBJ
+ 0001:000430b0       ?Check1_Click@main@@AAGXXZ 004440b0 f   main.OBJ
+ 0001:00043890       ?Check2_Click@main@@AAGXXZ 00444890 f   main.OBJ
+ 0001:00044070       ?Check3_Click@main@@AAGXXZ 00445070 f   main.OBJ
+ 0001:00044840       ?Check4_Click@main@@AAGXXZ 00445840 f   main.OBJ
+ 0001:00045020       ?Command10_Click@main@@AAGXXZ 00446020 f   main.OBJ
+ 0001:00046b40       ?Command3_Click@main@@AAGXXZ 00447b40 f   main.OBJ
+ 0001:00046e70       ?Command1_Click@main@@AAGXXZ 00447e70 f   main.OBJ
+ 0001:000471b0       ?Command2_Click@main@@AAGXXZ 004481b0 f   main.OBJ
+ 0001:00047600       ?Command4_Click@main@@AAGXXZ 00448600 f   main.OBJ
+ 0001:000479a0       ?Command6_Click@main@@AAGXXZ 004489a0 f   main.OBJ
+ 0001:00048910       ?Command9_Click@main@@AAGXXZ 00449910 f   main.OBJ
+ 0001:000495e0       ?Form_Initialize@main@@AAGXXZ 0044a5e0 f   main.OBJ
+ 0001:000496a0       ?Form_Resize@main@@AAGXXZ  0044a6a0 f   main.OBJ
+ 0001:00049800       ?Form_Load@main@@AAGXXZ    0044a800 f   main.OBJ
+ 0001:0004bbf0       ?Form_Unload@main@@AAGXXZ  0044cbf0 f   main.OBJ
+ 0001:0004bcb0       ?Timer10_Timer@main@@AAGXXZ 0044ccb0 f   main.OBJ
+ 0001:0004c0e0       ?Timer11_Timer@main@@AAGXXZ 0044d0e0 f   main.OBJ
+ 0001:0004c580       ?Timer12_Timer@main@@AAGXXZ 0044d580 f   main.OBJ
+ 0001:0004c9b0       ?Timer13_Timer@main@@AAGXXZ 0044d9b0 f   main.OBJ
+ 0001:0004ce50       ?Timer14_Timer@main@@AAGXXZ 0044de50 f   main.OBJ
+ 0001:0004d280       ?Timer15_Timer@main@@AAGXXZ 0044e280 f   main.OBJ
+ 0001:0004d720       ?Timer16_Timer@main@@AAGXXZ 0044e720 f   main.OBJ
+ 0001:0004db50       ?Timer17_Timer@main@@AAGXXZ 0044eb50 f   main.OBJ
+ 0001:0004dff0       ?Timer18_Timer@main@@AAGXXZ 0044eff0 f   main.OBJ
+ 0001:0004e420       ?Timer19_Timer@main@@AAGXXZ 0044f420 f   main.OBJ
+ 0001:0004e8c0       ?Timer2_Timer@main@@AAGXXZ 0044f8c0 f   main.OBJ
+ 0001:0004ecf0       ?Timer20_Timer@main@@AAGXXZ 0044fcf0 f   main.OBJ
+ 0001:0004f120       ?Timer21_Timer@main@@AAGXXZ 00450120 f   main.OBJ
+ 0001:0004f5c0       ?Timer22_Timer@main@@AAGXXZ 004505c0 f   main.OBJ
+ 0001:0004f9f0       ?Timer23_Timer@main@@AAGXXZ 004509f0 f   main.OBJ
+ 0001:0004fe90       ?Timer24_Timer@main@@AAGXXZ 00450e90 f   main.OBJ
+ 0001:000502c0       ?Timer25_Timer@main@@AAGXXZ 004512c0 f   main.OBJ
+ 0001:00050680       ?Timer3_Timer@main@@AAGXXZ 00451680 f   main.OBJ
+ 0001:00050b20       ?Timer4_Timer@main@@AAGXXZ 00451b20 f   main.OBJ
+ 0001:00050f50       ?Timer5_Timer@main@@AAGXXZ 00451f50 f   main.OBJ
+ 0001:000513f0       ?Timer6_Timer@main@@AAGXXZ 004523f0 f   main.OBJ
+ 0001:00051820       ?Timer7_Timer@main@@AAGXXZ 00452820 f   main.OBJ
+ 0001:00051cc0       ?Timer8_Timer@main@@AAGXXZ 00452cc0 f   main.OBJ
+ 0001:000520f0       ?Timer9_Timer@main@@AAGXXZ 004530f0 f   main.OBJ
+ 0001:00052590       ?drawForm@ctlSkin@@AAGXXZ  00453590 f   ctlSkin.OBJ
+ 0001:000544f0       ?UserControl_DblClick@ctlSkin@@AAGXXZ 004554f0 f   ctlSkin.OBJ
+ 0001:00054ca0       ?drawButtons@ctlSkin@@AAGXXZ 00455ca0 f   ctlSkin.OBJ
+ 0001:000568a0       ?UserControl_Initialize@ctlSkin@@AAGXXZ 004578a0 f   ctlSkin.OBJ
+ 0001:00056930       ?UserControl_MouseDown@ctlSkin@@AAGXXZ 00457930 f   ctlSkin.OBJ
+ 0001:00056ea0       ?UserControl_MouseMove@ctlSkin@@AAGXXZ 00457ea0 f   ctlSkin.OBJ
+ 0001:00057af0       ?UserControl_MouseUp@ctlSkin@@AAGXXZ 00458af0 f   ctlSkin.OBJ
+ 0001:00058340       ?UserControl_Paint@ctlSkin@@AAGXXZ 00459340 f   ctlSkin.OBJ
+ 0001:000583d0       ?UserControl_Resize@ctlSkin@@AAGXXZ 004593d0 f   ctlSkin.OBJ
+ 0001:00058460       ?UserControl_ReadProperties@ctlSkin@@AAGXXZ 00459460 f   ctlSkin.OBJ
+ 0001:00058610       ?UserControl_WriteProperties@ctlSkin@@AAGXXZ 00459610 f   ctlSkin.OBJ
+ 0001:00058750       ?Caption__Get@ctlSkin@@AAGXXZ 00459750 f   ctlSkin.OBJ
+ 0001:000587e0       ?Caption__Let@ctlSkin@@AAGXXZ 004597e0 f   ctlSkin.OBJ
+ 0001:00058870       ?Resize__Get@ctlSkin@@AAGXXZ 00459870 f   ctlSkin.OBJ
+ 0001:000588e0       ?Resize__Let@ctlSkin@@AAGXXZ 004598e0 f   ctlSkin.OBJ
+ 0001:000589b0       ?FadeIN@modFade@@AAGXXZ    004599b0 f   modFade.OBJ
+ 0001:00058cd0       ?FadeOUT@modFade@@AAGXXZ   00459cd0 f   modFade.OBJ
+ 0001:00058f60       ?Hook@modMinSize@@AAGXXZ   00459f60 f   modMinSize.OBJ
+ 0001:00058f90       ?Unhook@modMinSize@@AAGXXZ 00459f90 f   modMinSize.OBJ
+ 0001:00058fb0       ?WindowProc@modMinSize@@AAGXXZ 00459fb0 f   modMinSize.OBJ
+ 0001:000590d0       ?Image1_Click@agree@@AAGXXZ 0045a0d0 f   agree.OBJ
+ 0001:000592f0       ?Image2_Click@agree@@AAGXXZ 0045a2f0 f   agree.OBJ
+ 0001:00059410       ?Label6_Click@agree@@AAGXXZ 0045a410 f   agree.OBJ
+ 0001:00059530       ?Label9_Click@agree@@AAGXXZ 0045a530 f   agree.OBJ
+ 0001:00059650       ?List1_Click@agree@@AAGXXZ 0045a650 f   agree.OBJ
+ 0001:00059660       ?Timer1_Timer@agree@@AAGXXZ 0045a660 f   agree.OBJ
+ 0001:00059a10       ?Check1_Click@setting@@AAGXXZ 0045aa10 f   setting.OBJ
+ 0001:00059b50       ?Check2_Click@setting@@AAGXXZ 0045ab50 f   setting.OBJ
+ 0001:00059e90       ?Command1_Click@setting@@AAGXXZ 0045ae90 f   setting.OBJ
+ 0001:0005a630       ?Command10_Click@setting@@AAGXXZ 0045b630 f   setting.OBJ
+ 0001:0005a820       ?Command11_Click@setting@@AAGXXZ 0045b820 f   setting.OBJ
+ 0001:0005aa10       ?Command12_Click@setting@@AAGXXZ 0045ba10 f   setting.OBJ
+ 0001:0005ac00       ?Command13_Click@setting@@AAGXXZ 0045bc00 f   setting.OBJ
+ 0001:0005adf0       ?Command15_Click@setting@@AAGXXZ 0045bdf0 f   setting.OBJ
+ 0001:0005b030       ?Command16_Click@setting@@AAGXXZ 0045c030 f   setting.OBJ
+ 0001:0005bb30       ?Command17_Click@setting@@AAGXXZ 0045cb30 f   setting.OBJ
+ 0001:0005bc20       ?Command2_Click@setting@@AAGXXZ 0045cc20 f   setting.OBJ
+ 0001:0005c720       ?Command3_Click@setting@@AAGXXZ 0045d720 f   setting.OBJ
+ 0001:0005c810       ?Command4_Click@setting@@AAGXXZ 0045d810 f   setting.OBJ
+ 0001:0005ce30       ?Command5_Click@setting@@AAGXXZ 0045de30 f   setting.OBJ
+ 0001:0005cf80       ?Command6_Click@setting@@AAGXXZ 0045df80 f   setting.OBJ
+ 0001:0005d9f0       ?Command7_Click@setting@@AAGXXZ 0045e9f0 f   setting.OBJ
+ 0001:0005dae0       ?Command8_Click@setting@@AAGXXZ 0045eae0 f   setting.OBJ
+ 0001:0005e5e0       ?Command9_Click@setting@@AAGXXZ 0045f5e0 f   setting.OBJ
+ 0001:0005ed80       ?Form_Load@setting@@AAGXXZ 0045fd80 f   setting.OBJ
+ 0001:0005f980       ?Text1_Change@setting@@AAGXXZ 00460980 f   setting.OBJ
+ 0001:0005fb80       ?Text10_Change@setting@@AAGXXZ 00460b80 f   setting.OBJ
+ 0001:0005fd70       ?Text11_Change@setting@@AAGXXZ 00460d70 f   setting.OBJ
+ 0001:0005ff60       ?Text12_Change@setting@@AAGXXZ 00460f60 f   setting.OBJ
+ 0001:00060150       ?Text13_Change@setting@@AAGXXZ 00461150 f   setting.OBJ
+ 0001:00060340       ?Text14_Change@setting@@AAGXXZ 00461340 f   setting.OBJ
+ 0001:00060530       ?Text15_Change@setting@@AAGXXZ 00461530 f   setting.OBJ
+ 0001:00060720       ?Text16_Change@setting@@AAGXXZ 00461720 f   setting.OBJ
+ 0001:00060910       ?Text2_Change@setting@@AAGXXZ 00461910 f   setting.OBJ
+ 0001:00060b00       ?Text3_Change@setting@@AAGXXZ 00461b00 f   setting.OBJ
+ 0001:00060cf0       ?Text4_Change@setting@@AAGXXZ 00461cf0 f   setting.OBJ
+ 0001:00060ee0       ?Text8_Change@setting@@AAGXXZ 00461ee0 f   setting.OBJ
+ 0001:000610d0       ?Text9_Change@setting@@AAGXXZ 004620d0 f   setting.OBJ
+ 0001:000612c0       ?Timer1_Timer@setting@@AAGXXZ 004622c0 f   setting.OBJ
+ 0001:000613b0       ?Form_Initialize@programinfo@@AAGXXZ 004623b0 f   programinfo.OBJ
+ 0001:00061470       ?Form_Resize@programinfo@@AAGXXZ 00462470 f   programinfo.OBJ
+ 0001:000615d0       ?Form_Load@programinfo@@AAGXXZ 004625d0 f   programinfo.OBJ
+ 0001:00061680       ?Form_Unload@programinfo@@AAGXXZ 00462680 f   programinfo.OBJ
+ 0001:00061740       ?Image1_Click@programinfo@@AAGXXZ 00462740 f   programinfo.OBJ
+ 0001:00061880       ?Command1_Click@Update@@AAGXXZ 00462880 f   Update.OBJ
+ 0001:00061c60       ?Form_Load@Update@@AAGXXZ  00462c60 f   Update.OBJ
+ 0001:00061f80       ?Form_KeyDown@Keycord@@AAGXXZ 00462f80 f   keycord.OBJ
+ 0001:00062070       ?Command1_Click@de@@AAGXXZ 00463070 f   de.OBJ
+ 0001:00062460       ?Form_Load@de@@AAGXXZ      00463460 f   de.OBJ
+ 0001:000625a0       ?Form_Unload@de@@AAGXXZ    004635a0 f   de.OBJ
+ 0001:00062690       ?Command1_Click@login@@AAGXXZ 00463690 f   login.OBJ
+ 0001:000629d0       ?Form_Load@login@@AAGXXZ   004639d0 f   login.OBJ
+ 0001:00062b10       ?Form_Unload@login@@AAGXXZ 00463b10 f   login.OBJ
+ 0001:00062c00       ?Command1_Click@List@@AAGXXZ 00463c00 f   List.OBJ
+ 0001:00062cd0       ?Form_Load@List@@AAGXXZ    00463cd0 f   List.OBJ
+ 0001:00063d50       ?Timer1_Timer@List@@AAGXXZ 00464d50 f   List.OBJ
+ 0001:00063e20       VB@ETXT                    00464e20     ALP2014.OBJ
+ 0002:00000000       __adjust_fdiv              00466000     VBAEXE6:natsupp.obj
+ 0002:00000008       VB@BSS                     00466008     ALP2014.OBJ
+ 0002:00000010       ___vba@05E5C518            00466010     ALP2014.OBJ
+ 0002:00000024       ___vba@05E5C5C0            00466024     ALP2014.OBJ
+ 0002:00000038       ___vba@05E5C590            00466038     ALP2014.OBJ
+ 0002:0000004c       ___vba@05E5C618            0046604c     ALP2014.OBJ
+ 0002:00000060       ___vba@05E5C530            00466060     ALP2014.OBJ
+ 0002:00000074       _modFade                   00466074     ALP2014.OBJ
+ 0002:00000084       _modMinSize                00466084     ALP2014.OBJ
+ 0002:000000a0       ___vba@05E5C500            004660a0     ALP2014.OBJ
+ 0002:000000b4       ___vba@05E6CB34            004660b4     ALP2014.OBJ
+ 0002:000000c8       ___vba@05E5C578            004660c8     ALP2014.OBJ
+ 0002:000000dc       ___vba@05E5C548            004660dc     ALP2014.OBJ
+ 0002:000000f0       ___vba@05E5C560            004660f0     ALP2014.OBJ
+ 0002:00000834       ___vba@05E8371C            00466834     ALP2014.OBJ
+ 0002:00000874       ___vba@0088E934            00466874     ALP2014.OBJ
+ 0002:00000f90       ___vba@05DE0F94            00466f90     ALP2014.OBJ
+ 0002:0000169c       ___vba@05E454B4            0046769c     ALP2014.OBJ
+ 0002:00001e24       ___vba@05618394            00467e24     ALP2014.OBJ
+ 0002:00002534       ___vba@05EEEF4C            00468534     ALP2014.OBJ
+ 0002:00002c44       ___vba@0561D1AC            00468c44     ALP2014.OBJ
+ 0002:00003354       ___vba@055B2A3C            00469354     ALP2014.OBJ
+ 0002:00003a5c       ___vba@05E13D44            00469a5c     ALP2014.OBJ
+ 0002:00004174       ___vba@0556BF1C            0046a174     ALP2014.OBJ
+ 0002:0000495c       ___vba@05604A9C            0046a95c     ALP2014.OBJ
+
+ entry point at        0001:00000cd4
+
+ Static symbols
+
